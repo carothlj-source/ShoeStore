@@ -1,8 +1,8 @@
 ---
-title: RXpizzeria
-emoji: 🐢
-colorFrom: yellow
-colorTo: yellow
+title: ShoeStore
+emoji: 👠
+colorFrom: red
+colorTo: navy
 sdk: streamlit
 sdk_version: 1.55.0
 app_file: app.py
