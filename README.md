@@ -1,6 +1,6 @@
 ---
 title: ShoeStore
-emoji: 👠
+emoji: 🩴
 colorFrom: red
 colorTo: navy
 sdk: streamlit
